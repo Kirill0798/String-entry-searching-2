@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ejb" name="tnp_lab_4:ejb exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/tnp_lab_4_ejb_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="tnp_lab_4/ejb/EJB" />
+      <element id="module-output" name="tnp_lab_4" />
+    </root>
+  </artifact>
+</component>
